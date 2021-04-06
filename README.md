@@ -82,9 +82,9 @@ También debes crear un botón  debajo de la tabla donde se debe hacer un consol
 
 ### Una vez realizada la prueba ✅
 
-_Crea un repositorio publico en [Github](https://github.com/) con tus respuestas._
+_Envíanos tu respuesta en un archivo comprimido .zip._
 
-_Envía el link del repositorio antes mencionado al mismo correo electrónico de donde te enviaron la prueba._
+_Envía tu respuesta al mismo correo electrónico de donde te enviaron la prueba._
 
 __** Nota: Los estilos deben ser manejados con Bootstrap 4 y serán libres a tu criterio para conocer tu capacidad sobre estilos.__
 
